@@ -1,0 +1,13 @@
+LiczbaStron;Algorytm;PageFaults
+100;First In First Out;64
+100;Least Frequently Used;58
+100;Least Recently Used;59
+100;First In First Out;90
+100;Least Frequently Used;89
+100;Least Recently Used;90
+100;First In First Out;95
+100;Least Frequently Used;93
+100;Least Recently Used;95
+100;First In First Out;98
+100;Least Frequently Used;96
+100;Least Recently Used;98

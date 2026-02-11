@@ -1,0 +1,7 @@
+LiczbaProcesow;Algorytm;ATT;AWT
+25;Shortest Job First;21,8;16,8
+25;Round Robin;30,32;25,32
+75;Shortest Job First;139,45333333333335;134,45333333333335
+75;Round Robin;212,05333333333334;207,05333333333334
+125;Shortest Job First;266,664;261,664
+125;Round Robin;412,584;407,584

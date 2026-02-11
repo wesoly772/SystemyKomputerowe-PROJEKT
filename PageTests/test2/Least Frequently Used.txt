@@ -1,0 +1,1 @@
+Least Frequently Used algorithm results: 93 faults
